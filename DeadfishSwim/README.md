@@ -14,3 +14,4 @@ All other instructions are no-ops and have no effect.
 Program "iiisdoso" should return numbers [8, 64].
 Program "iiisdosodddddiso" should return numbers [8, 64, 3600].
 
+https://www.codewars.com/kata/51e0007c1f9378fa810002a9/train/java
